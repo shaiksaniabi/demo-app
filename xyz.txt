@@ -1,4 +1,10 @@
 devops
+<<<<<<< HEAD
 development
 technology**
 palamaner
+=======
+develop
+technology**
+bangalore
+>>>>>>> db67f3061a70118973cde765573cb0a910da2558
