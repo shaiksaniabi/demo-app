@@ -1,2 +1,3 @@
 saniya
 palamaner
+configuration
