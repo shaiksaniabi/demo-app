@@ -1,6 +1,4 @@
 devops
-<<<<<<< HEAD
-development
-=======
+develop
 technology**
->>>>>>> refs/remotes/origin/main
+bangalore
