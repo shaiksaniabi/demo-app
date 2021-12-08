@@ -1,6 +1,4 @@
 devops
-<<<<<<< HEAD
 development
-=======
 technology**
->>>>>>> refs/remotes/origin/main
+palamaner
