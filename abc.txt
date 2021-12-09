@@ -2,3 +2,4 @@ saniya
 palamaner
 configuration
 jenkins
+git stash
